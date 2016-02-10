@@ -53,6 +53,7 @@ LOCAL_CFLAGS += \
 	-DHAVE___BUILTIN_CLZLL \
 	-DHAVE___BUILTIN_UNREACHABLE \
 	-DHAVE_PTHREAD=1 \
+	-DTEXTURE_FLOAT_ENABLED \
 	-fvisibility=hidden \
 	-Wno-sign-compare
 
